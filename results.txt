@@ -1,0 +1,130 @@
+example1.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+example1.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+Original name: 100_item.json -> New name: 100_item.yaml: Time conversion: 675.0s., old weight: 20058.0 bytes - new weight: 12443.0 bytes
+Original name: 20_item.json -> New name: 20_item.yaml: Time conversion: 62.0s., old weight: 3979.0 bytes - new weight: 2442.0 bytes
+Original name: test1.yaml -> New name: test1.json: Time conversion: 243.0s., old weight: 15794.0 bytes - new weight: 17562.0 bytes
+Original name: test2.yaml -> New name: test2.json: Time conversion: 31.0s., old weight: 252.0 bytes - new weight: 311.0 bytes
+Original name: 100_item.json -> New name: 100_item.yaml: Time conversion: 802.0s., old weight: 20058.0 bytes - new weight: 12443.0 bytes
+Original name: 20_item.json -> New name: 20_item.yaml: Time conversion: 35.0s., old weight: 3979.0 bytes - new weight: 2442.0 bytes
+Original name: test1.yaml -> New name: test1.json: Time conversion: 262.0s., old weight: 15794.0 bytes - new weight: 17562.0 bytes
+Original name: test2.yaml -> New name: test2.json: Time conversion: 13.0s., old weight: 252.0 bytes - new weight: 311.0 bytes
+Original name: 100_item.json -> New name: 100_item.yaml: Time conversion: 660.0s., old weight: 20058.0 bytes - new weight: 12443.0 bytes
+Original name: 20_item.json -> New name: 20_item.yaml: Time conversion: 85.0s., old weight: 3979.0 bytes - new weight: 2442.0 bytes
+Original name: test1.yaml -> New name: test1.json: Time conversion: 355.0s., old weight: 15794.0 bytes - new weight: 17562.0 bytes
+Original name: test2.yaml -> New name: test2.json: Time conversion: 5.0s., old weight: 252.0 bytes - new weight: 311.0 bytes
+Original name: 100_item.json -> New name: 100_item.yaml: Time conversion: 731.0s., old weight: 20058.0 bytes - new weight: 12443.0 bytes
+Original name: 20_item.json -> New name: 20_item.yaml: Time conversion: 23.0s., old weight: 3979.0 bytes - new weight: 2442.0 bytes
+Original name: test1.yaml -> New name: test1.json: Time conversion: 269.0s., old weight: 15794.0 bytes - new weight: 17562.0 bytes
+Original name: test2.yaml -> New name: test2.json: Time conversion: 6.0s., old weight: 252.0 bytes - new weight: 311.0 bytes
+Original name: 100_item.json -> New name: 100_item.yaml: Time conversion: 679.0s., old weight: 20058.0 bytes - new weight: 12443.0 bytes
+Original name: 20_item.json -> New name: 20_item.yaml: Time conversion: 90.0s., old weight: 3979.0 bytes - new weight: 2442.0 bytes
+Original name: test1.yaml -> New name: test1.json: Time conversion: 393.0s., old weight: 15794.0 bytes - new weight: 17562.0 bytes
+Original name: test2.yaml -> New name: test2.json: Time conversion: 9.0s., old weight: 252.0 bytes - new weight: 311.0 bytes
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!
+example1.txt -> Impossible conversion!
+file.txt -> Impossible conversion!
+Hello world -> Impossible conversion!
+java.io.FileWriter@2d3fcdbd -> Impossible conversion!
+Project2.iml -> Impossible conversion!
+result.txt -> Impossible conversion!
+results.txt -> Impossible conversion!

@@ -1,0 +1,7 @@
+2021-03-08 20:05:31,061 [DEBUG] [main          ] - put: cache_1={Ivanov=034}
+2021-03-08 20:05:31,066 [DEBUG] [main          ] - put: cache_2={Petrov=125}
+2021-03-08 20:05:31,067 [DEBUG] [main          ] - put: cache_3={Sidorov=567}
+2021-03-08 20:05:31,067 [DEBUG] [main          ] - put: cache_4={Dmitriev=321}
+2021-03-08 20:05:31,067 [DEBUG] [main          ] - getObject: (cache_2, Petrov) = 125
+2021-03-08 20:05:31,067 [DEBUG] [main          ] - The method clear with (cache_2) was called
+2021-03-08 20:05:31,068 [DEBUG] [main          ] - The method clear was called

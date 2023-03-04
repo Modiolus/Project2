@@ -1,0 +1,15 @@
+В пустыне чахлой и скупой,
+На почве, зноем раскаленной,
+Анчар, как грозный часовой,
+Стоит — один во всей вселенной.
+
+
+In the stunted and stingy desert,
+On the soil, red-hot heat,
+Anchar, like a formidable sentry,
+It stands alone in the entire universe.
+
+long n = file.length()/2;
+file.seek(n);
+String sa = "Half";
+file.write(sa.getBytes());
